@@ -31,3 +31,5 @@ const compile = () => {
         return error;
     }
 };
+
+module.exports = compile;
